@@ -27,3 +27,5 @@ dist-ssr
 
 __pycache__
 
+# Source copies from sphinx-build.
+_sources
